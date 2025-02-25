@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+sentence-transformers
+langchain-community>=0.1.8
+langchain>=0.1.18
+nltk
+faiss-cpu
+rank_bm25
